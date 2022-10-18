@@ -1,0 +1,22 @@
+
+@media(max-width:600px){
+    .footer-center{
+        text-align: center;
+    
+    }
+    .flag{
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .sidebox{
+        /* background: #dfe8ee;
+        float: left;
+        margin: 0 0 35px 0;
+        padding: 12px 5%;
+      width: 90%;
+      margin-left: 2%;
+      margin-right: 2%;
+justify-content: center; */
+    }
+
+}

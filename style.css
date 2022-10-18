@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.pr-primary{
+    color: #008bcc;
+    font-size: 40px;
+}
+.automotive{
+    font-size: 30px;
+    color: aliceblue !important;
+}
+.sec-nav{
+    background-color: #595756;
+}
+.sec-nav a {
+    color: #aaacaf;
+    margin-left: 5px;
+
+}
+.flag{
+    display: flex !important;
+}
+.hero-section{
+    background-image: url(./assete/Images/hero-sec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#008bcc;
+    height: 100px;
+    vertical-align: middle;
+
+}
+.heading{
+        color: #008bcc;
+   font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.sidebox{
+    background: #dfe8ee;
+    /* float: left;
+    margin: 0 0 35px 0; */
+    padding: 12px 5%;
+    /* width: 90%; */
+}
+.p-text{
+    color: #008bcc;
+   
+     text-transform: uppercase;
+     font-weight: bold;
+}
+.footer-div {
+    background: #a7a8aa;
+    color: #fff;
+    /* float: left; */
+    font-size: 16px;
+    /* line-height: 10px; */
+
+    /* padding: 22px 0 0 0; */
+    /* text-align: left; */
+    width: 100%
+}
+
+.footer-div  .f-text {
+
+
+}
+section{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
